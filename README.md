@@ -7,26 +7,26 @@ Doodle Jump DS Save File.
 Simplicity & Stability is the main goal of this application.
 </pre>
 
-## Extra DDJDS Content ##
+## Extra DDJDS Content
 - <a href="https://github.com/miso-xyz/nds-notes/">nds-notes</a>
   - <a href="https://github.com/miso-xyz/nds-notes/blob/main/AR%20Codes%20ive%20made/Doodle%20Jump%20Codes.txt">Doodle Jump DS - Action Replay Codes</a>
   - <a href="https://github.com/miso-xyz/nds-notes/blob/main/WinHex%20Syntax%20Highlighting/DDJDS%20Save%20File%20-%20WinHex%20Highlighting.pos">Doodle Jump DS Save File - Syntax Highlighting</a> | <a href="http://www.winhex.com/winhex/">WinHex</a> required
 
-# Arguments (v1.0.1)
+## Arguments (v1.0.1)
 On default settings, the only animation that will be playing will be the blinking end text.
 Name | Effect | Default
 :-------------: | :-------------: | :-------------:
 --noAnim | No animations will be shown | false
 --allAnim | All animations will be shown | false
 
-# To Do
+## To Do
 - [x] Read Settings
 - [ ] Rendering Errors can happen if lagging while processing multiple animations (v1.0.1)
 - [ ] Signature Stuff
   - [ ] Figuring out `Unknown Signature`
   - [ ] Validating Signatures
 
-# Changelog
+## Changelog
 <details>
 <summary>v1.0.1</summary>
 <pre>- Added Settings Reading
@@ -54,5 +54,5 @@ Name | Effect | Default
   <img src="https://i.imgur.com/tNz8ayN.png"></img>
 </details>
 
-# Credits
+## Credits
 <a href="https://www.deviantart.com/pingasthelawler/">pingasthelawler</a> - <a href="https://www.deviantart.com/pingasthelawler/art/Super-Sonic-Doodle-Jump-Alien-429184537">App Icon</a>
