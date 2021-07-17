@@ -14,10 +14,13 @@ Simplicity & Stability is the main goal of this application.
 
 ## Arguments (v1.0.1)
 On default settings, the only animation that will be playing will be the blinking end text.
+
 Name | Effect | Default
 :-------------: | :-------------: | :-------------:
 --noAnim | No animations will be shown | false
 --allAnim | All animations will be shown | false
+
+Note: Graphical Glitches can occur when multiple animations are playing
 
 ## To Do
 - [x] Read Settings
