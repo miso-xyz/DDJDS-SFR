@@ -34,7 +34,7 @@ Name | Effect | Default
   |- Animations
      |- Blinking Pause Text
      |- Blinking "Max Reached!" & "(2.147B)"
-- .DSV Reading is more stable
+- `.DSV Save File` Reading is more stable
 - Added Save File Type Style
   |- ".DSV - DeSmuME"
   |- ".SAV - Default"
@@ -43,7 +43,7 @@ Name | Effect | Default
 <details>
   <summary>Screenshots</summary>
   <p>v1.0.1 Release Screenshot:</p>
-  <img src="https://i.imgur.com/R5HLBln.png"></img>*
+  <img src="https://i.imgur.com/R5HLBln.png"></img>
   
   - - - -
   
