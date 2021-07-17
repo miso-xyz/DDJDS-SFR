@@ -15,7 +15,7 @@ Simplicity & Stability is the main goal of this application.
 # Arguments (v1.0.1)
 On default settings, the only animation that will be playing will be the blinking end text.
 Name | Effect | Default
-------------- | ------------- | -------------
+:-------------: | :-------------: | :-------------:
 --noAnim | No animations will be shown | false
 --allAnim | All animations will be shown | false
 
@@ -23,7 +23,7 @@ Name | Effect | Default
 - [x] Read Settings
 - [ ] Rendering Errors can happen if lagging while processing multiple animations (v1.0.1)
 - [ ] Signature Stuff
-  - [ ] Figuring out `"Unknown Signature"`
+  - [ ] Figuring out `Unknown Signature`
   - [ ] Validating Signatures
 
 # Changelog
