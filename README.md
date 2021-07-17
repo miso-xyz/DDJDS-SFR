@@ -17,8 +17,8 @@ Name | Effect | Default
 --allAnim | All animations will be shown | false
 
 # To Do
-- [x] Read Settings (v1.0.1)
-- [ ] Rendering Errors can happen if lagging while processing multiple animations
+- [x] Read Settings
+- [ ] Rendering Errors can happen if lagging while processing multiple animations (v1.0.1)
 - [ ] Signature Stuff
   - [ ] Figuring out `"Unknown Signature"`
   - [ ] Validating Signatures
