@@ -1,7 +1,7 @@
 # About DDJDS-SFR
 <pre>
-Doodle Jump DS Save File Reader (otherwise known as DDJDS-SFR) is a simple CLI utility which its purpose is to be able
-to read any Doodle Jump DS Save File.
+Doodle Jump DS Save File Reader (otherwise known as DDJDS-SFR) is a simple CLI utility which its purpose is
+to be able to read any Doodle Jump DS Save File.
 
 Simplicity & Stability is the main goal of this application.
 </pre>
